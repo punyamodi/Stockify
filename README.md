@@ -3,6 +3,12 @@
 Stockify is a robust and user-friendly stock trading platform built using React, a popular JavaScript library for building user interfaces. This platform aims to provide a seamless and intuitive experience for traders of all levels, from beginners to seasoned professionals.
 
 ![244852799-8188c2ec-2543-41a8-be55-23c62983e39e](https://github.com/punyamodi/Stockify/assets/68418104/1b4fd8ef-dfdf-497b-86f2-da8a75e6d48b)
+![244852809-05f097a1-29de-4ae7-9d60-d946def8d335](https://github.com/punyamodi/Stockify/assets/68418104/326bbedd-a4a3-4074-a39e-598fbec6c1d4)
+![244852813-c59aa018-77a1-427e-95fe-bdcc7d6c9af5](https://github.com/punyamodi/Stockify/assets/68418104/565a239a-c30e-40eb-979d-d1ec7bc7cd94)
+![244852814-e6dde60f-971a-4cdc-9f3f-33e7beb262f1](https://github.com/punyamodi/Stockify/assets/68418104/88e251da-dc8a-4aaf-9572-65f430a13113)
+![244852815-504fcf3e-250a-4665-8abc-60e8e2ed223b](https://github.com/punyamodi/Stockify/assets/68418104/9bca4900-0ea6-4899-8d5f-8f6c7972faa7)
+![244852816-44668b73-bd35-4b0d-b660-5a222df7dd43](https://github.com/punyamodi/Stockify/assets/68418104/dda4c8a1-9454-45bf-abe4-9551c97426fa)
+![244852817-0285b2f4-baf9-4ee0-a685-35d392f6f091](https://github.com/punyamodi/Stockify/assets/68418104/c37dc143-4dd9-4578-b6cf-3457c3de8f41)
 
 
 
