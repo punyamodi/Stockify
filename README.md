@@ -2,6 +2,10 @@
 
 Stockify is a robust and user-friendly stock trading platform built using React, a popular JavaScript library for building user interfaces. This platform aims to provide a seamless and intuitive experience for traders of all levels, from beginners to seasoned professionals.
 
+![244852799-8188c2ec-2543-41a8-be55-23c62983e39e](https://github.com/punyamodi/Stockify/assets/68418104/1b4fd8ef-dfdf-497b-86f2-da8a75e6d48b)
+
+
+
 ## Features
 
 - **Real-time Market Data**: Stay up-to-date with the latest stock prices, news, and market trends with our real-time data feed.
