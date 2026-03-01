@@ -1,20 +1,22 @@
 # Stockify
 
+> A full-stack NSE stock trading simulator — real-time prices, portfolio tracking, order management, and advanced charting in a professional dark-themed interface.
+
+![Dashboard](https://github.com/punyamodi/Stockify/assets/68418104/1b4fd8ef-dfdf-497b-86f2-da8a75e6d48b)
+
+![Orders](https://github.com/punyamodi/Stockify/assets/68418104/326bbedd-a4a3-4074-a39e-598fbec6c1d4)
+
+![Positions](https://github.com/punyamodi/Stockify/assets/68418104/565a239a-c30e-40eb-979d-d1ec7bc7cd94)
+
+![Watchlist](https://github.com/punyamodi/Stockify/assets/68418104/88e251da-dc8a-4aaf-9572-65f430a13113)
+
+![Chart](https://github.com/punyamodi/Stockify/assets/68418104/9bca4900-0ea6-4899-8d5f-8f6c7972faa7)
+
+![Account](https://github.com/punyamodi/Stockify/assets/68418104/dda4c8a1-9454-45bf-abe4-9551c97426fa)
+
+![Landing](https://github.com/punyamodi/Stockify/assets/68418104/c37dc143-4dd9-4578-b6cf-3457c3de8f41)
+
 Stockify is a full-stack stock trading platform built with React and Node.js. It provides a complete trading experience with real-time price simulations, portfolio management, order execution, watchlists, and advanced charting — all in a professional dark-themed interface.
-
-![Dashboard](https://user-images.githubusercontent.com/68418104/332795229-1b4fd8ef-dfdf-497b-86f2-da8a75e6d48b.png)
-
-![Orders](https://user-images.githubusercontent.com/68418104/332795393-326bbedd-a4a3-4074-a39e-598fbec6c1d4.png)
-
-![Positions](https://user-images.githubusercontent.com/68418104/332795448-565a239a-c30e-40eb-979d-d1ec7bc7cd94.png)
-
-![Watchlist](https://user-images.githubusercontent.com/68418104/332795484-88e251da-dc8a-4aaf-9572-65f430a13113.png)
-
-![Chart](https://user-images.githubusercontent.com/68418104/332795535-9bca4900-0ea6-4899-8d5f-8f6c7972faa7.png)
-
-![Account](https://user-images.githubusercontent.com/68418104/332795572-dda4c8a1-9454-45bf-abe4-9551c97426fa.png)
-
-![Landing](https://user-images.githubusercontent.com/68418104/332795603-c37dc143-4dd9-4578-b6cf-3457c3de8f41.png)
 
 ## Features
 
