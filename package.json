@@ -1,0 +1,12 @@
+{
+  "name": "stockify",
+  "version": "1.0.0",
+  "description": "Full-stack NSE stock trading platform",
+  "private": true,
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install --legacy-peer-deps",
+    "build": "cd frontend && npm run build"
+  }
+}
